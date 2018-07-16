@@ -1,0 +1,21 @@
+{
+  "name": "@rxdi/cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "rxdi": "bin/dts-generator"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bluebird": "^3.5.1",
+    "fs": "0.0.1-security",
+    "glob": "^7.1.2",
+    "mkdirp": "^0.5.1",
+    "typescript": "^2.9.2"
+  }
+}
