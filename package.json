@@ -16,6 +16,6 @@
     "fs": "0.0.1-security",
     "glob": "^7.1.2",
     "mkdirp": "^0.5.1",
-    "typescript": "^2.9.2"
+    "typescript": "^3.0.1"
   }
 }
