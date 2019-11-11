@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test":"echo Test DTS"
   },
   "repository": {
     "type": "git",
@@ -16,10 +16,10 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "bluebird": "^3.5.1",
-    "fs": "0.0.1-security",
     "glob": "^7.1.2",
-    "mkdirp": "^0.5.1",
-    "typescript": "^3.0.1"
+    "mkdirp": "^0.5.1"
+  },
+  "devDependencies": {
+    "typescript": "^3.5.3"
   }
 }
