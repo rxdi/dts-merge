@@ -1,6 +1,6 @@
 {
   "name": "@rxdi/dts-merge",
-  "version": "0.7.39",
+  "version": "0.7.41",
   "description": "",
   "main": "index.js",
   "scripts": {
